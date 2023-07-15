@@ -19,36 +19,39 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
+              I fell in love with data and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> SQL, Python and Excel. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Data Manipulation, Statistical Analysis, and Data Visualization </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Database Management.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Master of numbers, slayer of spreadsheets,&nbsp;
                 </b>
               </i>
-              &nbsp; like
+              and
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> tamer of unruly data sets.</b>
+              </i>
+              &nbsp;
+              Ready to analyze data like a boss and turn insights into
+              <i>
+                <b className="purple"> smiles.</b>
               </i>
             </p>
           </Col>
